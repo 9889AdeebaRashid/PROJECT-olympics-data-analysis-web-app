@@ -1,11 +1,11 @@
 # olympics-data-analysis-web-app
 
 
-It is a Streamlit web application for the analysis of olympics dataset.
+* It is a Streamlit web application for the analysis of olympics dataset.
 
-Technology used:- Python( Programming language) + Machine learning + Exploratory data analytics.
+* Technology used:- Python( Programming language) + Machine learning + Exploratory data analytics.
 
-It's layout canbe seen inm the following images shown below:-
+* It's layout canbe seen inm the following images shown below:-
 
 ![Screenshot (5650)](https://github.com/9889AdeebaRashid/PROJECT-movie-recommendation-system/assets/80636537/dfbf9bc3-236d-4d4e-b9ba-6fed399c81b3)
 ![Screenshot (5651)](https://github.com/9889AdeebaRashid/PROJECT-movie-recommendation-system/assets/80636537/12df8a2e-6dc8-4a58-b449-f10baec9204b)
