@@ -7,6 +7,11 @@
 
 * Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
+* Live Demo:
+
+                https://olympics-orfz.onrender.com/
+
+
 
 * It's layout canbe seen inm the following images shown below:-
 
@@ -22,8 +27,3 @@
 ![Screenshot (5659)](https://github.com/9889AdeebaRashid/PROJECT-movie-recommendation-system/assets/80636537/3d43d6e5-6f7c-4e74-9c8e-d8ed92885e86)
 
 
-Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
-
-Live Demo:
-
-https://olympics-orfz.onrender.com/
